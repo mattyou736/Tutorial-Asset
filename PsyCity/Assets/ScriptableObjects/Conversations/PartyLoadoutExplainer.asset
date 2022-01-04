@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84388ff8cb4736842ab6445b5a4a2b9d, type: 3}
+  m_Name: PartyLoadoutExplainer
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: 3208f2e74030c9e4b9598b15a428bb4e, type: 2}
+  speakerRight: {fileID: 11400000, guid: 06bec13949738c948a8d9d74fcea1edc, type: 2}
+  speakerThird: {fileID: 11400000, guid: 06bec13949738c948a8d9d74fcea1edc, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: 06bec13949738c948a8d9d74fcea1edc, type: 2}
+    text: At the station to our left you can change your party members their loadouts.
+  - character: {fileID: 11400000, guid: 06bec13949738c948a8d9d74fcea1edc, type: 2}
+    text: Be sure to get a good variety of actions. that way you can have the advantage
+      no matter what enemy crosses your path.

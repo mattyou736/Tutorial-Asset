@@ -1,0 +1,1799 @@
+fileFormatVersion: 2
+guid: c5ff3814722af8a4595830550818cea1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 506889964660686574
+    second: impact04-Inguz Media_0
+  - first:
+      213: 9123287960693906847
+    second: impact04-Inguz Media_1
+  - first:
+      213: 1110553301884133672
+    second: impact04-Inguz Media_2
+  - first:
+      213: 7066130806534226713
+    second: impact04-Inguz Media_3
+  - first:
+      213: -2507010146835612147
+    second: impact04-Inguz Media_4
+  - first:
+      213: 3933636187230810682
+    second: impact04-Inguz Media_5
+  - first:
+      213: -2580832369870508653
+    second: impact04-Inguz Media_6
+  - first:
+      213: 6285710626623355888
+    second: impact04-Inguz Media_7
+  - first:
+      213: -7421148058800586274
+    second: impact04-Inguz Media_8
+  - first:
+      213: 3778361423255124011
+    second: impact04-Inguz Media_9
+  - first:
+      213: -2162852889874149007
+    second: impact04-Inguz Media_10
+  - first:
+      213: -2593460164718617576
+    second: impact04-Inguz Media_11
+  - first:
+      213: -1987457982444859609
+    second: impact04-Inguz Media_12
+  - first:
+      213: -2238891730537274387
+    second: impact04-Inguz Media_13
+  - first:
+      213: 4921726341720347552
+    second: impact04-Inguz Media_14
+  - first:
+      213: -6343967948204206362
+    second: impact04-Inguz Media_15
+  - first:
+      213: -8897514907206824799
+    second: impact04-Inguz Media_16
+  - first:
+      213: 5475079240827668501
+    second: impact04-Inguz Media_17
+  - first:
+      213: -486730915740701705
+    second: impact04-Inguz Media_18
+  - first:
+      213: 4963377214524307975
+    second: impact04-Inguz Media_19
+  - first:
+      213: 8183613423067357659
+    second: impact04-Inguz Media_20
+  - first:
+      213: 196188206117285305
+    second: impact04-Inguz Media_21
+  - first:
+      213: -5321661157792246367
+    second: impact04-Inguz Media_22
+  - first:
+      213: 5890566690748946945
+    second: impact04-Inguz Media_23
+  - first:
+      213: -2278916918355713043
+    second: impact04-Inguz Media_24
+  - first:
+      213: -3205945965240913398
+    second: impact04-Inguz Media_25
+  - first:
+      213: 859473149685675104
+    second: impact04-Inguz Media_26
+  - first:
+      213: 6301239159524816824
+    second: impact04-Inguz Media_27
+  - first:
+      213: -854932890834681159
+    second: impact04-Inguz Media_28
+  - first:
+      213: -9194368355147117153
+    second: impact04-Inguz Media_29
+  - first:
+      213: 6358469567228792741
+    second: impact04-Inguz Media_30
+  - first:
+      213: -2326589414359430348
+    second: impact04-Inguz Media_31
+  - first:
+      213: 4874131679656695052
+    second: impact04-Inguz Media_32
+  - first:
+      213: -4113299880386290577
+    second: impact04-Inguz Media_33
+  - first:
+      213: -6281363874052636947
+    second: impact04-Inguz Media_34
+  - first:
+      213: -3366148356835544945
+    second: impact04-Inguz Media_35
+  - first:
+      213: -5965663887384812877
+    second: impact04-Inguz Media_36
+  - first:
+      213: -489741461554706180
+    second: impact04-Inguz Media_37
+  - first:
+      213: -7167868542492715426
+    second: impact04-Inguz Media_38
+  - first:
+      213: 7349356397931211472
+    second: impact04-Inguz Media_39
+  - first:
+      213: -8115149235081560928
+    second: impact04-Inguz Media_40
+  - first:
+      213: -3959195354438766964
+    second: impact04-Inguz Media_41
+  - first:
+      213: 6706025753288743592
+    second: impact04-Inguz Media_42
+  - first:
+      213: -6262767868268625104
+    second: impact04-Inguz Media_43
+  - first:
+      213: 5836465905894668979
+    second: impact04-Inguz Media_44
+  - first:
+      213: -498737651153743030
+    second: impact04-Inguz Media_45
+  - first:
+      213: -3132618940936700376
+    second: impact04-Inguz Media_46
+  - first:
+      213: 8243687526913057817
+    second: impact04-Inguz Media_47
+  - first:
+      213: -1181890661687277473
+    second: impact04-Inguz Media_48
+  - first:
+      213: -5521129381384870859
+    second: impact04-Inguz Media_49
+  - first:
+      213: -3648629113040691166
+    second: impact04-Inguz Media_50
+  - first:
+      213: 2491794837856929601
+    second: impact04-Inguz Media_51
+  - first:
+      213: 329522591759422905
+    second: impact04-Inguz Media_52
+  - first:
+      213: 2345672229483136827
+    second: impact04-Inguz Media_53
+  - first:
+      213: -8540561471429186590
+    second: impact04-Inguz Media_54
+  - first:
+      213: -1762573332667623262
+    second: impact04-Inguz Media_55
+  - first:
+      213: 4813910752507748715
+    second: impact04-Inguz Media_56
+  - first:
+      213: -1730775303097561710
+    second: impact04-Inguz Media_57
+  - first:
+      213: -4523649997825084779
+    second: impact04-Inguz Media_58
+  - first:
+      213: 7465165105065335865
+    second: impact04-Inguz Media_59
+  - first:
+      213: 4199356816738688664
+    second: impact04-Inguz Media_60
+  - first:
+      213: 2542798342813467898
+    second: impact04-Inguz Media_61
+  - first:
+      213: -2118741519483347004
+    second: impact04-Inguz Media_62
+  - first:
+      213: 2281972915207054971
+    second: impact04-Inguz Media_63
+  - first:
+      213: 3411561695044414269
+    second: impact04-Inguz Media_64
+  - first:
+      213: -3505593288101680614
+    second: impact04-Inguz Media_65
+  - first:
+      213: 9108334912849161554
+    second: impact04-Inguz Media_66
+  - first:
+      213: 463172920792079998
+    second: impact04-Inguz Media_67
+  - first:
+      213: -874155379099868715
+    second: impact04-Inguz Media_68
+  - first:
+      213: -6769475054593150673
+    second: impact04-Inguz Media_69
+  - first:
+      213: 2285716113181232159
+    second: impact04-Inguz Media_70
+  - first:
+      213: -5845147171284031187
+    second: impact04-Inguz Media_71
+  - first:
+      213: -3322880939771816884
+    second: impact04-Inguz Media_72
+  - first:
+      213: -3876537539728877037
+    second: impact04-Inguz Media_73
+  - first:
+      213: -1624918846109385667
+    second: impact04-Inguz Media_74
+  - first:
+      213: 1706524771853057115
+    second: impact04-Inguz Media_75
+  - first:
+      213: -5797048253346833426
+    second: impact04-Inguz Media_76
+  - first:
+      213: 1587446545395618813
+    second: impact04-Inguz Media_77
+  - first:
+      213: 4053164668338894531
+    second: impact04-Inguz Media_78
+  - first:
+      213: 8703068447477855111
+    second: impact04-Inguz Media_79
+  - first:
+      213: 3136447703842075183
+    second: impact04-Inguz Media_80
+  - first:
+      213: -3346842528340718012
+    second: impact04-Inguz Media_81
+  - first:
+      213: -8690124922746308135
+    second: impact04-Inguz Media_82
+  - first:
+      213: -1921586677306484549
+    second: impact04-Inguz Media_83
+  - first:
+      213: 8879920454042759306
+    second: impact04-Inguz Media_84
+  - first:
+      213: 8513871745540176228
+    second: impact04-Inguz Media_85
+  - first:
+      213: 5632125160493558727
+    second: impact04-Inguz Media_86
+  - first:
+      213: 90958103414869629
+    second: impact04-Inguz Media_87
+  - first:
+      213: 4176195654024056696
+    second: impact04-Inguz Media_88
+  - first:
+      213: 2507384377013055515
+    second: impact04-Inguz Media_89
+  - first:
+      213: 3811804740924991304
+    second: impact04-Inguz Media_90
+  - first:
+      213: -1903373517998057069
+    second: impact04-Inguz Media_91
+  - first:
+      213: -7937095512268276030
+    second: impact04-Inguz Media_92
+  - first:
+      213: -6513628992426175755
+    second: impact04-Inguz Media_93
+  - first:
+      213: -4238920841122589285
+    second: impact04-Inguz Media_94
+  - first:
+      213: -6927896299159367118
+    second: impact04-Inguz Media_95
+  - first:
+      213: -3145930904517049771
+    second: impact04-Inguz Media_96
+  - first:
+      213: -515462986916721799
+    second: impact04-Inguz Media_97
+  - first:
+      213: 2538890165451243620
+    second: impact04-Inguz Media_98
+  - first:
+      213: -2275181741629818054
+    second: impact04-Inguz Media_99
+  - first:
+      213: 6781149707582748181
+    second: impact04-Inguz Media_100
+  - first:
+      213: -2094591777966796894
+    second: impact04-Inguz Media_101
+  - first:
+      213: -6750532237648475522
+    second: impact04-Inguz Media_102
+  - first:
+      213: -418277676491167152
+    second: impact04-Inguz Media_103
+  - first:
+      213: -9001550267911527155
+    second: impact04-Inguz Media_104
+  - first:
+      213: -7485390054671955493
+    second: impact04-Inguz Media_105
+  - first:
+      213: -38770883221683509
+    second: impact04-Inguz Media_106
+  - first:
+      213: -7007411901906322382
+    second: impact04-Inguz Media_107
+  - first:
+      213: 3401572574278575424
+    second: impact04-Inguz Media_108
+  - first:
+      213: -7138354216063464378
+    second: impact04-Inguz Media_109
+  - first:
+      213: 7637727925368575060
+    second: impact04-Inguz Media_110
+  - first:
+      213: -7109159292174422066
+    second: impact04-Inguz Media_111
+  - first:
+      213: 5980231932794946775
+    second: impact04-Inguz Media_112
+  - first:
+      213: -7164781733633279524
+    second: impact04-Inguz Media_113
+  - first:
+      213: -8951303906458297315
+    second: impact04-Inguz Media_114
+  - first:
+      213: -6562887555679309743
+    second: impact04-Inguz Media_115
+  - first:
+      213: 6283011484582148599
+    second: impact04-Inguz Media_116
+  - first:
+      213: -8483439630147581703
+    second: impact04-Inguz Media_117
+  - first:
+      213: -5262920294291524527
+    second: impact04-Inguz Media_118
+  - first:
+      213: -7298327156128311176
+    second: impact04-Inguz Media_119
+  - first:
+      213: -218006641983544944
+    second: impact04-Inguz Media_120
+  - first:
+      213: -923189041816347007
+    second: impact04-Inguz Media_121
+  - first:
+      213: 624664319961107657
+    second: impact04-Inguz Media_122
+  - first:
+      213: -7650365237770319244
+    second: impact04-Inguz Media_123
+  - first:
+      213: 3700672976049922339
+    second: impact04-Inguz Media_124
+  - first:
+      213: -369356725213980692
+    second: impact04-Inguz Media_125
+  - first:
+      213: 2109942960092147261
+    second: impact04-Inguz Media_126
+  - first:
+      213: 2828735046583406709
+    second: impact04-Inguz Media_127
+  - first:
+      213: -8143724882877713552
+    second: impact04-Inguz Media_128
+  - first:
+      213: 7035599869296806943
+    second: impact04-Inguz Media_129
+  - first:
+      213: -1614792534295114670
+    second: impact04-Inguz Media_130
+  - first:
+      213: 3884153418590780906
+    second: impact04-Inguz Media_131
+  - first:
+      213: 2879724622676521343
+    second: impact04-Inguz Media_132
+  - first:
+      213: -1498703954463437312
+    second: impact04-Inguz Media_133
+  - first:
+      213: 5132507446724549267
+    second: impact04-Inguz Media_134
+  - first:
+      213: 4529157504761952350
+    second: impact04-Inguz Media_135
+  - first:
+      213: 2035469786483124362
+    second: impact04-Inguz Media_136
+  - first:
+      213: 3933560490582030811
+    second: impact04-Inguz Media_137
+  - first:
+      213: -468846589578458125
+    second: impact04-Inguz Media_138
+  - first:
+      213: 8464060345139476949
+    second: impact04-Inguz Media_139
+  - first:
+      213: -7336074769214092470
+    second: impact04-Inguz Media_140
+  - first:
+      213: -4428999830111256756
+    second: impact04-Inguz Media_141
+  - first:
+      213: 8885826430422862001
+    second: impact04-Inguz Media_142
+  - first:
+      213: -6230658725866884590
+    second: impact04-Inguz Media_143
+  - first:
+      213: -8765527573364675196
+    second: impact04-Inguz Media_144
+  - first:
+      213: -8092334539381928290
+    second: impact04-Inguz Media_145
+  - first:
+      213: -4841372088698980936
+    second: impact04-Inguz Media_146
+  - first:
+      213: 8772802619666230213
+    second: impact04-Inguz Media_147
+  - first:
+      213: -596054620639075762
+    second: impact04-Inguz Media_148
+  - first:
+      213: 3401789710051765681
+    second: impact04-Inguz Media_149
+  - first:
+      213: 6114162388398967377
+    second: impact04-Inguz Media_150
+  - first:
+      213: 701000487032386289
+    second: impact04-Inguz Media_151
+  - first:
+      213: -542349885326559501
+    second: impact04-Inguz Media_152
+  - first:
+      213: 1865336401080137510
+    second: impact04-Inguz Media_153
+  - first:
+      213: -1604799499681750694
+    second: impact04-Inguz Media_154
+  - first:
+      213: -6770761891055048384
+    second: impact04-Inguz Media_155
+  - first:
+      213: -3757683363155736368
+    second: impact04-Inguz Media_156
+  - first:
+      213: -6651625851134396407
+    second: impact04-Inguz Media_157
+  - first:
+      213: -6311818866206944239
+    second: impact04-Inguz Media_158
+  - first:
+      213: 8162136984923487452
+    second: impact04-Inguz Media_159
+  - first:
+      213: 8915099545375407475
+    second: impact04-Inguz Media_160
+  - first:
+      213: -9010019031709524274
+    second: impact04-Inguz Media_161
+  - first:
+      213: 8342811677324545604
+    second: impact04-Inguz Media_162
+  - first:
+      213: 7266043578155115680
+    second: impact04-Inguz Media_163
+  - first:
+      213: -1516125793698588490
+    second: impact04-Inguz Media_164
+  - first:
+      213: -4475881278922668036
+    second: impact04-Inguz Media_165
+  - first:
+      213: -3212944178656462129
+    second: impact04-Inguz Media_166
+  - first:
+      213: 6298380650791310133
+    second: impact04-Inguz Media_167
+  - first:
+      213: -1286960448006748961
+    second: impact04-Inguz Media_168
+  - first:
+      213: 1226350576325816662
+    second: impact04-Inguz Media_169
+  - first:
+      213: -3594106547028412241
+    second: impact04-Inguz Media_170
+  - first:
+      213: -1471385621081560668
+    second: impact04-Inguz Media_171
+  - first:
+      213: 7719675061775780958
+    second: impact04-Inguz Media_172
+  - first:
+      213: 5557396877242982239
+    second: impact04-Inguz Media_173
+  - first:
+      213: 6946006865443352186
+    second: impact04-Inguz Media_174
+  - first:
+      213: -6647737995539963763
+    second: impact04-Inguz Media_175
+  - first:
+      213: 153524455347150280
+    second: impact04-Inguz Media_176
+  - first:
+      213: 5721269854386817815
+    second: impact04-Inguz Media_177
+  - first:
+      213: 2050149645810025310
+    second: impact04-Inguz Media_178
+  - first:
+      213: 1451842638412420838
+    second: impact04-Inguz Media_179
+  - first:
+      213: -4426212078983599759
+    second: impact04-Inguz Media_180
+  - first:
+      213: 483055143022896412
+    second: impact04-Inguz Media_181
+  - first:
+      213: -2358188799267805899
+    second: impact04-Inguz Media_182
+  - first:
+      213: -627091159630508162
+    second: impact04-Inguz Media_183
+  - first:
+      213: 3180382142160442102
+    second: impact04-Inguz Media_184
+  - first:
+      213: -7627598841967485885
+    second: impact04-Inguz Media_185
+  - first:
+      213: 7900518457677084557
+    second: impact04-Inguz Media_186
+  - first:
+      213: 1192781747704510789
+    second: impact04-Inguz Media_187
+  - first:
+      213: -1131192279751301559
+    second: impact04-Inguz Media_188
+  - first:
+      213: 3928633273548507040
+    second: impact04-Inguz Media_189
+  - first:
+      213: 333230333639541450
+    second: impact04-Inguz Media_190
+  - first:
+      213: -329944766420068134
+    second: impact04-Inguz Media_191
+  - first:
+      213: -430922947102955991
+    second: impact04-Inguz Media_192
+  - first:
+      213: -3612674632424944486
+    second: impact04-Inguz Media_193
+  - first:
+      213: 7827533789309930893
+    second: impact04-Inguz Media_194
+  - first:
+      213: -497645739923395799
+    second: impact04-Inguz Media_195
+  - first:
+      213: -4494154534017443001
+    second: impact04-Inguz Media_196
+  - first:
+      213: -1182129494492711075
+    second: impact04-Inguz Media_197
+  - first:
+      213: -490935181879643684
+    second: impact04-Inguz Media_198
+  - first:
+      213: -1040426066281187714
+    second: impact04-Inguz Media_199
+  - first:
+      213: -3883514842205644168
+    second: impact04-Inguz Media_200
+  - first:
+      213: -5134608998548328423
+    second: impact04-Inguz Media_201
+  - first:
+      213: -4314871362770269713
+    second: impact04-Inguz Media_202
+  - first:
+      213: -3829395529702579227
+    second: impact04-Inguz Media_203
+  - first:
+      213: 2158541719625489951
+    second: impact04-Inguz Media_204
+  - first:
+      213: 1463984703541926532
+    second: impact04-Inguz Media_205
+  - first:
+      213: -5412418428829852819
+    second: impact04-Inguz Media_206
+  - first:
+      213: -4796771575103460888
+    second: impact04-Inguz Media_207
+  - first:
+      213: -8562718159997123022
+    second: impact04-Inguz Media_208
+  - first:
+      213: -5039265831882409213
+    second: impact04-Inguz Media_209
+  - first:
+      213: -4275136537831469192
+    second: impact04-Inguz Media_210
+  - first:
+      213: -4316742123987293001
+    second: impact04-Inguz Media_211
+  - first:
+      213: -6512256122700380882
+    second: impact04-Inguz Media_212
+  - first:
+      213: -7024683402495521714
+    second: impact04-Inguz Media_213
+  - first:
+      213: 3216248601207416057
+    second: impact04-Inguz Media_214
+  - first:
+      213: -7068978789781565127
+    second: impact04-Inguz Media_215
+  - first:
+      213: 1338534019797885685
+    second: impact04-Inguz Media_216
+  - first:
+      213: -2623792069664769710
+    second: impact04-Inguz Media_217
+  - first:
+      213: -527851880319489196
+    second: impact04-Inguz Media_218
+  - first:
+      213: 2456759543905319974
+    second: impact04-Inguz Media_219
+  - first:
+      213: -2844535507856866906
+    second: impact04-Inguz Media_220
+  - first:
+      213: -4632973211926549313
+    second: impact04-Inguz Media_221
+  - first:
+      213: 8064784046034633518
+    second: impact04-Inguz Media_222
+  - first:
+      213: -7668593983578980866
+    second: impact04-Inguz Media_223
+  - first:
+      213: -7116301633200038372
+    second: impact04-Inguz Media_224
+  - first:
+      213: -4689713608869089320
+    second: impact04-Inguz Media_225
+  - first:
+      213: 7236985769378587228
+    second: impact04-Inguz Media_226
+  - first:
+      213: -516744387065675789
+    second: impact04-Inguz Media_227
+  - first:
+      213: 4146467251407723993
+    second: impact04-Inguz Media_228
+  - first:
+      213: -4325670465087900393
+    second: impact04-Inguz Media_229
+  - first:
+      213: -6880034370778794131
+    second: impact04-Inguz Media_230
+  - first:
+      213: -9115008738109418541
+    second: impact04-Inguz Media_231
+  - first:
+      213: -2766543223088788265
+    second: impact04-Inguz Media_232
+  - first:
+      213: -8396358135275743231
+    second: impact04-Inguz Media_233
+  - first:
+      213: -3433153892837481103
+    second: impact04-Inguz Media_234
+  - first:
+      213: 8488108714428593738
+    second: impact04-Inguz Media_235
+  - first:
+      213: -1188538497435499039
+    second: impact04-Inguz Media_236
+  - first:
+      213: 6614704044417370207
+    second: impact04-Inguz Media_237
+  - first:
+      213: -5213525085078570542
+    second: impact04-Inguz Media_238
+  - first:
+      213: -2621625222765689468
+    second: impact04-Inguz Media_239
+  - first:
+      213: -4221966234879316284
+    second: impact04-Inguz Media_240
+  - first:
+      213: -7202255865425644676
+    second: impact04-Inguz Media_241
+  - first:
+      213: 1653311734282028092
+    second: impact04-Inguz Media_242
+  - first:
+      213: -7234299705265886452
+    second: impact04-Inguz Media_243
+  - first:
+      213: -4695624548613775992
+    second: impact04-Inguz Media_244
+  - first:
+      213: -697120096841918318
+    second: impact04-Inguz Media_245
+  - first:
+      213: -3053166069741015202
+    second: impact04-Inguz Media_246
+  - first:
+      213: -39474945801873787
+    second: impact04-Inguz Media_247
+  - first:
+      213: -4470400856675821022
+    second: impact04-Inguz Media_248
+  - first:
+      213: 5643244738801158838
+    second: impact04-Inguz Media_249
+  - first:
+      213: 6994725539824067202
+    second: impact04-Inguz Media_250
+  - first:
+      213: -9089823244668730137
+    second: impact04-Inguz Media_251
+  - first:
+      213: 7394552644893873840
+    second: impact04-Inguz Media_252
+  - first:
+      213: -8167166919473077088
+    second: impact04-Inguz Media_253
+  - first:
+      213: 7065023382552347705
+    second: impact04-Inguz Media_254
+  - first:
+      213: 141610251444256089
+    second: impact04-Inguz Media_255
+  - first:
+      213: 8251126171019324078
+    second: impact04-Inguz Media_256
+  - first:
+      213: -3849974448199492880
+    second: impact04-Inguz Media_257
+  - first:
+      213: 8462605293680684826
+    second: impact04-Inguz Media_258
+  - first:
+      213: -9221870050771117742
+    second: impact04-Inguz Media_259
+  - first:
+      213: 3886763453736946103
+    second: impact04-Inguz Media_260
+  - first:
+      213: 3755514177112393595
+    second: impact04-Inguz Media_261
+  - first:
+      213: 5106411686528971530
+    second: impact04-Inguz Media_262
+  - first:
+      213: -8953649129902803300
+    second: impact04-Inguz Media_263
+  - first:
+      213: 5953797993037005885
+    second: impact04-Inguz Media_264
+  - first:
+      213: 6691327679541215586
+    second: impact04-Inguz Media_265
+  - first:
+      213: -8559505034573769027
+    second: impact04-Inguz Media_266
+  - first:
+      213: 3895750228715870417
+    second: impact04-Inguz Media_267
+  - first:
+      213: 2813054907034309787
+    second: impact04-Inguz Media_268
+  - first:
+      213: -1170485990910737449
+    second: impact04-Inguz Media_269
+  - first:
+      213: -1616586885026747308
+    second: impact04-Inguz Media_270
+  - first:
+      213: 3375335971797717007
+    second: impact04-Inguz Media_271
+  - first:
+      213: -8294749309614726461
+    second: impact04-Inguz Media_272
+  - first:
+      213: -4317985350929336510
+    second: impact04-Inguz Media_273
+  - first:
+      213: -1528895667838718956
+    second: impact04-Inguz Media_274
+  - first:
+      213: -3450852643286954329
+    second: impact04-Inguz Media_275
+  - first:
+      213: -19423436356665081
+    second: impact04-Inguz Media_276
+  - first:
+      213: 3163948388833221821
+    second: impact04-Inguz Media_277
+  - first:
+      213: 9086006993287911465
+    second: impact04-Inguz Media_278
+  - first:
+      213: -6282110179741974233
+    second: impact04-Inguz Media_279
+  - first:
+      213: 6531961088359793536
+    second: impact04-Inguz Media_280
+  - first:
+      213: 1047144012768709576
+    second: impact04-Inguz Media_281
+  - first:
+      213: 4811348546235317970
+    second: impact04-Inguz Media_282
+  - first:
+      213: -5120943171448495015
+    second: impact04-Inguz Media_283
+  - first:
+      213: -7628606840607164932
+    second: impact04-Inguz Media_284
+  - first:
+      213: -2489584396922845826
+    second: impact04-Inguz Media_285
+  - first:
+      213: -5684058758793170909
+    second: impact04-Inguz Media_286
+  - first:
+      213: 5007452339991669907
+    second: impact04-Inguz Media_287
+  - first:
+      213: -7053801303970010064
+    second: impact04-Inguz Media_288
+  - first:
+      213: -4224984224154671691
+    second: impact04-Inguz Media_289
+  - first:
+      213: 1093704530598793783
+    second: impact04-Inguz Media_290
+  - first:
+      213: -834298324087839119
+    second: impact04-Inguz Media_291
+  - first:
+      213: 130626422263659333
+    second: impact04-Inguz Media_292
+  - first:
+      213: 6319758992254711588
+    second: impact04-Inguz Media_293
+  - first:
+      213: -1209815549716843001
+    second: impact04-Inguz Media_294
+  - first:
+      213: 2594658310895650101
+    second: impact04-Inguz Media_295
+  - first:
+      213: 2285656578755328584
+    second: impact04-Inguz Media_296
+  - first:
+      213: -3327966583000079319
+    second: impact04-Inguz Media_297
+  - first:
+      213: 6100135657610136385
+    second: impact04-Inguz Media_298
+  - first:
+      213: 6932434681600964689
+    second: impact04-Inguz Media_299
+  - first:
+      213: -6450149023446956382
+    second: impact04-Inguz Media_300
+  - first:
+      213: -6173409033610760299
+    second: impact04-Inguz Media_301
+  - first:
+      213: -9051995988273481395
+    second: impact04-Inguz Media_302
+  - first:
+      213: -3712347195866598195
+    second: impact04-Inguz Media_303
+  - first:
+      213: 5825037496126259194
+    second: impact04-Inguz Media_304
+  - first:
+      213: 4248425839906214771
+    second: impact04-Inguz Media_305
+  - first:
+      213: 1705141101607215797
+    second: impact04-Inguz Media_306
+  - first:
+      213: -8285579491832048757
+    second: impact04-Inguz Media_307
+  - first:
+      213: -2361427076862380860
+    second: impact04-Inguz Media_308
+  - first:
+      213: -8547463573848575219
+    second: impact04-Inguz Media_309
+  - first:
+      213: 2740456603431273454
+    second: impact04-Inguz Media_310
+  - first:
+      213: -1298045651283038738
+    second: impact04-Inguz Media_311
+  - first:
+      213: 8132394259620155647
+    second: impact04-Inguz Media_312
+  - first:
+      213: 4787457840541099771
+    second: impact04-Inguz Media_313
+  - first:
+      213: 3314860481467640417
+    second: impact04-Inguz Media_314
+  - first:
+      213: -872333072095255289
+    second: impact04-Inguz Media_315
+  - first:
+      213: 2252816655798861246
+    second: impact04-Inguz Media_316
+  - first:
+      213: 5607242667818409117
+    second: impact04-Inguz Media_317
+  - first:
+      213: -4084668112888641203
+    second: impact04-Inguz Media_318
+  - first:
+      213: -6756241120036280704
+    second: impact04-Inguz Media_319
+  - first:
+      213: 837767989450625212
+    second: impact04-Inguz Media_320
+  - first:
+      213: -6182370484031747372
+    second: impact04-Inguz Media_321
+  - first:
+      213: 5889588988565577519
+    second: impact04-Inguz Media_322
+  - first:
+      213: -2828691022886331498
+    second: impact04-Inguz Media_323
+  - first:
+      213: 2870350383254410838
+    second: impact04-Inguz Media_324
+  - first:
+      213: 2708273769577594650
+    second: impact04-Inguz Media_325
+  - first:
+      213: -201975697811114878
+    second: impact04-Inguz Media_326
+  - first:
+      213: -1723572201658321455
+    second: impact04-Inguz Media_327
+  - first:
+      213: 6659762363326407079
+    second: impact04-Inguz Media_328
+  - first:
+      213: -4572664614735544139
+    second: impact04-Inguz Media_329
+  - first:
+      213: -2554258683336269062
+    second: impact04-Inguz Media_330
+  - first:
+      213: 638554721404280613
+    second: impact04-Inguz Media_331
+  - first:
+      213: -2756625835740488344
+    second: impact04-Inguz Media_332
+  - first:
+      213: -3738498759880192004
+    second: impact04-Inguz Media_333
+  - first:
+      213: 1430635285457983320
+    second: impact04-Inguz Media_334
+  - first:
+      213: 6598332937280082587
+    second: impact04-Inguz Media_335
+  - first:
+      213: 5966876753916217188
+    second: impact04-Inguz Media_336
+  - first:
+      213: 5266815031997441315
+    second: impact04-Inguz Media_337
+  - first:
+      213: -4441436833431024984
+    second: impact04-Inguz Media_338
+  - first:
+      213: 2695288140682164728
+    second: impact04-Inguz Media_339
+  - first:
+      213: -1199044575354702402
+    second: impact04-Inguz Media_340
+  - first:
+      213: -761545465238075851
+    second: impact04-Inguz Media_341
+  - first:
+      213: 2231886268397659637
+    second: impact04-Inguz Media_342
+  - first:
+      213: 4723368812113135824
+    second: impact04-Inguz Media_343
+  - first:
+      213: -8228302998177015650
+    second: impact04-Inguz Media_344
+  - first:
+      213: -5442770040637413362
+    second: impact04-Inguz Media_345
+  - first:
+      213: 5838613583909459429
+    second: impact04-Inguz Media_346
+  - first:
+      213: 4772036357477401072
+    second: impact04-Inguz Media_347
+  - first:
+      213: 8447622672967608663
+    second: impact04-Inguz Media_348
+  - first:
+      213: 328076436792641779
+    second: impact04-Inguz Media_349
+  - first:
+      213: 8907650945460622227
+    second: impact04-Inguz Media_350
+  - first:
+      213: -7516176582863215853
+    second: impact04-Inguz Media_351
+  - first:
+      213: -3871912901770687353
+    second: impact04-Inguz Media_352
+  - first:
+      213: -8275779277662862355
+    second: impact04-Inguz Media_353
+  - first:
+      213: -7941351626451991271
+    second: impact04-Inguz Media_354
+  - first:
+      213: 8618026190780646159
+    second: impact04-Inguz Media_355
+  - first:
+      213: 2194421542202374089
+    second: impact04-Inguz Media_356
+  - first:
+      213: 6156315321555705216
+    second: impact04-Inguz Media_357
+  - first:
+      213: -2586378780984065799
+    second: impact04-Inguz Media_358
+  - first:
+      213: 8478833297308550531
+    second: impact04-Inguz Media_359
+  - first:
+      213: -4902084209443040189
+    second: impact04-Inguz Media_360
+  - first:
+      213: -5625212651472109888
+    second: impact04-Inguz Media_361
+  - first:
+      213: 242102959799417721
+    second: impact04-Inguz Media_362
+  - first:
+      213: 7609770716881142136
+    second: impact04-Inguz Media_363
+  - first:
+      213: -3323011586403752216
+    second: impact04-Inguz Media_364
+  - first:
+      213: 3115110542186716803
+    second: impact04-Inguz Media_365
+  - first:
+      213: -3259733525003720021
+    second: impact04-Inguz Media_366
+  - first:
+      213: -1132627913801495429
+    second: impact04-Inguz Media_367
+  - first:
+      213: 7945681074481442711
+    second: impact04-Inguz Media_368
+  - first:
+      213: 7590290060858089828
+    second: impact04-Inguz Media_369
+  - first:
+      213: 1709745142092639547
+    second: impact04-Inguz Media_370
+  - first:
+      213: -3067477474821207685
+    second: impact04-Inguz Media_371
+  - first:
+      213: -8719826110954240499
+    second: impact04-Inguz Media_372
+  - first:
+      213: 6743636194890854950
+    second: impact04-Inguz Media_373
+  - first:
+      213: 1775834933813982463
+    second: impact04-Inguz Media_374
+  - first:
+      213: 1217555099934696061
+    second: impact04-Inguz Media_375
+  - first:
+      213: 924047400466986236
+    second: impact04-Inguz Media_376
+  - first:
+      213: -946594535628389913
+    second: impact04-Inguz Media_377
+  - first:
+      213: 1767332889600065619
+    second: impact04-Inguz Media_378
+  - first:
+      213: -2335304734841029315
+    second: impact04-Inguz Media_379
+  - first:
+      213: -5127204649708471021
+    second: impact04-Inguz Media_380
+  - first:
+      213: 201094079781718939
+    second: impact04-Inguz Media_381
+  - first:
+      213: -2081744676334551395
+    second: impact04-Inguz Media_382
+  - first:
+      213: 4961177235649722633
+    second: impact04-Inguz Media_383
+  - first:
+      213: 8552216371919308709
+    second: impact04-Inguz Media_384
+  - first:
+      213: -4551414209281940939
+    second: impact04-Inguz Media_385
+  - first:
+      213: 6794277510811573977
+    second: impact04-Inguz Media_386
+  - first:
+      213: 2456416243572001602
+    second: impact04-Inguz Media_387
+  - first:
+      213: -5465207838123013979
+    second: impact04-Inguz Media_388
+  - first:
+      213: -3291199500598498845
+    second: impact04-Inguz Media_389
+  - first:
+      213: 8011732798640692626
+    second: impact04-Inguz Media_390
+  - first:
+      213: -7693019739792974412
+    second: impact04-Inguz Media_391
+  - first:
+      213: 112275643412278930
+    second: impact04-Inguz Media_392
+  - first:
+      213: -5850477093116393659
+    second: impact04-Inguz Media_393
+  - first:
+      213: 8968955358912332639
+    second: impact04-Inguz Media_394
+  - first:
+      213: 8384709597537178217
+    second: impact04-Inguz Media_395
+  - first:
+      213: 181749209679439804
+    second: impact04-Inguz Media_396
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: impact04-Inguz Media_0
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 7489
+        width: 390
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee7fcbbcb5d80700800000000000000
+      internalID: 506889964660686574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact04-Inguz Media_1
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 7459
+        width: 409
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d12c0201e6c9e70800000000000000
+      internalID: 9123287960693906847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact04-Inguz Media_2
+      rect:
+        serializedVersion: 2
+        x: 3292
+        y: 7439
+        width: 519
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821e0f6185a796f00800000000000000
+      internalID: 1110553301884133672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact04-Inguz Media_3
+      rect:
+        serializedVersion: 2
+        x: 4331
+        y: 7469
+        width: 489
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913cae3d780ff0260800000000000000
+      internalID: 7066130806534226713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact04-Inguz Media_4
+      rect:
+        serializedVersion: 2
+        x: 5389
+        y: 7469
+        width: 469
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e309ddd8f453dd0800000000000000
+      internalID: -2507010146835612147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact04-Inguz Media_5
+      rect:
+        serializedVersion: 2
+        x: 6451
+        y: 7384
+        width: 378
+        height: 553
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32b38f5545179630800000000000000
+      internalID: 3933636187230810682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact04-Inguz Media_6
+      rect:
+        serializedVersion: 2
+        x: 7499
+        y: 7486
+        width: 466
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39de90922aa0f2cd0800000000000000
+      internalID: -2580832369870508653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact04-Inguz Media_7
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 6321
+        width: 553
+        height: 641
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb78c403845b3750800000000000000
+      internalID: 6285710626623355888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact04-Inguz Media_8
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 6335
+        width: 611
+        height: 597
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed18c91d829c20990800000000000000
+      internalID: -7421148058800586274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact04-Inguz Media_9
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 6379
+        width: 582
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28392222bf6f6430800000000000000
+      internalID: 3778361423255124011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact04-Inguz Media_10
+      rect:
+        serializedVersion: 2
+        x: 3277
+        y: 6408
+        width: 553
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171df9581c00cf1e0800000000000000
+      internalID: -2162852889874149007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact04-Inguz Media_11
+      rect:
+        serializedVersion: 2
+        x: 4238
+        y: 6379
+        width: 669
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c12de88bd220cd0800000000000000
+      internalID: -2593460164718617576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact04-Inguz Media_12
+      rect:
+        serializedVersion: 2
+        x: 5213
+        y: 6394
+        width: 757
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f0c56be712b64e0800000000000000
+      internalID: -1987457982444859609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact04-Inguz Media_13
+      rect:
+        serializedVersion: 2
+        x: 6247
+        y: 6321
+        width: 713
+        height: 670
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de324ce45dbdde0e0800000000000000
+      internalID: -2238891730537274387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact04-Inguz Media_14
+      rect:
+        serializedVersion: 2
+        x: 7208
+        y: 6365
+        width: 801
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a39ce7080c7d4440800000000000000
+      internalID: 4921726341720347552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact04-Inguz Media_15
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 5375
+        width: 757
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e613dc43c2b5f7a0800000000000000
+      internalID: -6343967948204206362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact04-Inguz Media_16
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 5360
+        width: 670
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1acc13c355da58480800000000000000
+      internalID: -8897514907206824799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact04-Inguz Media_17
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 5389
+        width: 786
+        height: 597
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51806a2bf836bfb40800000000000000
+      internalID: 5475079240827668501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact04-Inguz Media_18
+      rect:
+        serializedVersion: 2
+        x: 3189
+        y: 5404
+        width: 699
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb231a9fc8ce39f0800000000000000
+      internalID: -486730915740701705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact04-Inguz Media_19
+      rect:
+        serializedVersion: 2
+        x: 4223
+        y: 5331
+        width: 728
+        height: 641
+      alignment: 9
+      pivot: {x: 0.5599969, y: 0.49999923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a3dfd874571e440800000000000000
+      internalID: 4963377214524307975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact04-Inguz Media_20
+      rect:
+        serializedVersion: 2
+        x: 5228
+        y: 5345
+        width: 684
+        height: 641
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd16c05bc09029170800000000000000
+      internalID: 8183613423067357659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact04-Inguz Media_21
+      rect:
+        serializedVersion: 2
+        x: 6232
+        y: 5302
+        width: 714
+        height: 699
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bdedbe422009b200800000000000000
+      internalID: 196188206117285305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact04-Inguz Media_22
+      rect:
+        serializedVersion: 2
+        x: 7310
+        y: 5287
+        width: 669
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a59cc25f59a526b0800000000000000
+      internalID: -5321661157792246367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact04-Inguz Media_23
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 4370
+        width: 582
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ad6d7123f7fb150800000000000000
+      internalID: 5890566690748946945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

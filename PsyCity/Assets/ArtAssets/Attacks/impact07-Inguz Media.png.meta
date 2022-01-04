@@ -1,0 +1,632 @@
+fileFormatVersion: 2
+guid: 4af10b62b9d69d1469d62c2207c4decf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1509581496316161975
+    second: impact07-Inguz Media_0
+  - first:
+      213: 2851901722524006103
+    second: impact07-Inguz Media_1
+  - first:
+      213: 86941420400040042
+    second: impact07-Inguz Media_2
+  - first:
+      213: 4938669349764785127
+    second: impact07-Inguz Media_3
+  - first:
+      213: -6595314523019621050
+    second: impact07-Inguz Media_4
+  - first:
+      213: 6267298967566857723
+    second: impact07-Inguz Media_5
+  - first:
+      213: 2240223011161013685
+    second: impact07-Inguz Media_6
+  - first:
+      213: 2416344827249689141
+    second: impact07-Inguz Media_7
+  - first:
+      213: -5199505969790840873
+    second: impact07-Inguz Media_8
+  - first:
+      213: 1334910853812025805
+    second: impact07-Inguz Media_9
+  - first:
+      213: 2138610391949483301
+    second: impact07-Inguz Media_10
+  - first:
+      213: -2565868260385138220
+    second: impact07-Inguz Media_11
+  - first:
+      213: -2895052986193834771
+    second: impact07-Inguz Media_12
+  - first:
+      213: 3078544229803071130
+    second: impact07-Inguz Media_13
+  - first:
+      213: 3315138847407521233
+    second: impact07-Inguz Media_14
+  - first:
+      213: 7068589859736462427
+    second: impact07-Inguz Media_15
+  - first:
+      213: -4775041988166809380
+    second: impact07-Inguz Media_16
+  - first:
+      213: 7463325879280111854
+    second: impact07-Inguz Media_17
+  - first:
+      213: -8525944414141233876
+    second: impact07-Inguz Media_18
+  - first:
+      213: -4255514537851306325
+    second: impact07-Inguz Media_19
+  - first:
+      213: -2713550011474360483
+    second: impact07-Inguz Media_20
+  - first:
+      213: -2316553013556158176
+    second: impact07-Inguz Media_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: impact07-Inguz Media_0
+      rect:
+        serializedVersion: 2
+        x: 5381
+        y: 7469
+        width: 457
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940929090a3ec0be0800000000000000
+      internalID: -1509581496316161975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact07-Inguz Media_1
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 7469
+        width: 457
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d63e51b18df39720800000000000000
+      internalID: 2851901722524006103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact07-Inguz Media_2
+      rect:
+        serializedVersion: 2
+        x: 7459
+        y: 7462
+        width: 457
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68563fd2c0e43100800000000000000
+      internalID: 86941420400040042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact07-Inguz Media_3
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 6443
+        width: 457
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3e6df7b9da98440800000000000000
+      internalID: 4938669349764785127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact07-Inguz Media_4
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 6443
+        width: 457
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64dc071826cb874a0800000000000000
+      internalID: -6595314523019621050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact07-Inguz Media_5
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 6430
+        width: 457
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5bef6943be9f650800000000000000
+      internalID: 6267298967566857723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact07-Inguz Media_6
+      rect:
+        serializedVersion: 2
+        x: 3347
+        y: 6443
+        width: 457
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd78ed95fed61f10800000000000000
+      internalID: 2240223011161013685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact07-Inguz Media_7
+      rect:
+        serializedVersion: 2
+        x: 4386
+        y: 6436
+        width: 457
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532021b61d4988120800000000000000
+      internalID: 2416344827249689141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact07-Inguz Media_8
+      rect:
+        serializedVersion: 2
+        x: 5412
+        y: 6449
+        width: 457
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df081f5ed4a7d7b0800000000000000
+      internalID: -5199505969790840873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact07-Inguz Media_9
+      rect:
+        serializedVersion: 2
+        x: 6418
+        y: 6449
+        width: 457
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc97740595e868210800000000000000
+      internalID: 1334910853812025805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact07-Inguz Media_10
+      rect:
+        serializedVersion: 2
+        x: 7451
+        y: 6416
+        width: 457
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d9b1512deddad10800000000000000
+      internalID: 2138610391949483301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact07-Inguz Media_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 5350
+        width: 457
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d95b476964346cd0800000000000000
+      internalID: -2565868260385138220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact07-Inguz Media_12
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 5350
+        width: 457
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec8bffc5a4b2d7d0800000000000000
+      internalID: -2895052986193834771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact07-Inguz Media_13
+      rect:
+        serializedVersion: 2
+        x: 2333
+        y: 5370
+        width: 457
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a969dba8aaf29ba20800000000000000
+      internalID: 3078544229803071130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact07-Inguz Media_14
+      rect:
+        serializedVersion: 2
+        x: 3352
+        y: 5337
+        width: 457
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ddb2d4a73db10e20800000000000000
+      internalID: 3315138847407521233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact07-Inguz Media_15
+      rect:
+        serializedVersion: 2
+        x: 4385
+        y: 5344
+        width: 457
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b542584c60da81260800000000000000
+      internalID: 7068589859736462427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact07-Inguz Media_16
+      rect:
+        serializedVersion: 2
+        x: 5385
+        y: 5311
+        width: 457
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd80ebb6c94abbdb0800000000000000
+      internalID: -4775041988166809380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact07-Inguz Media_17
+      rect:
+        serializedVersion: 2
+        x: 6398
+        y: 5324
+        width: 457
+        height: 563
+      alignment: 9
+      pivot: {x: 0.5289721, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee09875485f039760800000000000000
+      internalID: 7463325879280111854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact07-Inguz Media_18
+      rect:
+        serializedVersion: 2
+        x: 7431
+        y: 5331
+        width: 457
+        height: 563
+      alignment: 9
+      pivot: {x: 0.5289721, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25c26c4ab2cda980800000000000000
+      internalID: -8525944414141233876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact07-Inguz Media_19
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 4312
+        width: 457
+        height: 563
+      alignment: 9
+      pivot: {x: 0.5289721, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baebcd2131061f4c0800000000000000
+      internalID: -4255514537851306325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact07-Inguz Media_20
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 4325
+        width: 457
+        height: 563
+      alignment: 9
+      pivot: {x: 0.5289721, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5740dd34a8875ad0800000000000000
+      internalID: -2713550011474360483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impact07-Inguz Media_21
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 3312
+        width: 457
+        height: 563
+      alignment: 9
+      pivot: {x: 0.5289721, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021ef9bce43f9dfd0800000000000000
+      internalID: -2316553013556158176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

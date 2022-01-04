@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84388ff8cb4736842ab6445b5a4a2b9d, type: 3}
+  m_Name: testConvo
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: 97d7291d31943a24797462e255264723, type: 2}
+  speakerRight: {fileID: 11400000, guid: 3208f2e74030c9e4b9598b15a428bb4e, type: 2}
+  speakerThird: {fileID: 11400000, guid: 0476a7eab1303c6489c880c7ad65d17e, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: 97d7291d31943a24797462e255264723, type: 2}
+    text: Otacon you there?
+  - character: {fileID: 11400000, guid: 3208f2e74030c9e4b9598b15a428bb4e, type: 2}
+    text: Its showtime!
+  - character: {fileID: 11400000, guid: 0476a7eab1303c6489c880c7ad65d17e, type: 2}
+    text: ...............
+  - character: {fileID: 11400000, guid: c947f3d5ba5dff048a3f8530995fb6af, type: 2}
+    text: Speak sense, man.
+  - character: {fileID: 11400000, guid: 5a8c8917fbce4f849accc3e4da44d1fd, type: 2}
+    text: I'm really feeling it.
